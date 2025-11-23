@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-AI
 
-[![Run on Repl.it](https://repl.it/badge/github/tusharnankani/Tic-Tac-Toe-AI)](https://repl.it/github/tusharnankani/Tic-Tac-Toe-AI)
+
 
 Adding a simple AI to the Tic-Tac-Toe Game:
 
@@ -9,9 +9,7 @@ Adding a simple AI to the Tic-Tac-Toe Game:
 - Player vs. AI (1 - player mode)
 - AI vs. AI (*for fun*)
 
-### To view this project on a live terminal:
-- Click [here.](https://repl.it/github/tusharnankani/Tic-Tac-Toe-AI)
-- And then, click on <kbd>Run</kbd>!
+
 
 
 ## *References*
@@ -39,6 +37,4 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
   
   
 # *Author*:
-- [Tushar Nankani](https://github.com/tusharnankani)  (tusharnankani, tusharnankani3@gmail.com)
-- [Github](https://www.github.com/tusharnankani)
-- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
+Vasu Makkar (vasu.25bce10568@vitbhopal.ac.in)
